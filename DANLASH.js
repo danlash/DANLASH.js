@@ -1,3 +1,3 @@
-while (1=1) {
+while (1===1) {
   alert('DAN LASH!');
 }
